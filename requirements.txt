@@ -1,0 +1,11 @@
+Flask
+Flask-Login
+Flask-SQLAlchemy
+Flask-WTF
+Markdown
+Pillow
+SQLAlchemy
+gunicorn
+psycopg2-binary
+python-dotenv
+requests
